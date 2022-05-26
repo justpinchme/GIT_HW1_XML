@@ -1,7 +1,7 @@
-<xml>
-	<Summary>"Отсутствует логотип на главной странице сайта"</Summary>
-	<Actual result>"В левом верхнем углу вместо логотипа - пусто"</Actual result>
-	<Expected result>"В левом верхнем углу отображается логотип"</Expected result>
+<bug_report>
+	<summary>"Отсутствует логотип на главной странице сайта"</summary>
+	<actual_result>"В левом верхнем углу вместо логотипа - пусто"</actual_result>
+	<expected_result>"В левом верхнем углу отображается логотип"</expected_result>
 	<Severity>"Minor"</Severity>
 	<Priority>"Normal"</Priority>
-</xml>
+</bug_report>
